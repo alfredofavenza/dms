@@ -1,0 +1,31 @@
+#tableviewlist {
+	width: 400px;
+	font-size: 16px;
+}
+
+tr.label td {
+	padding: 20px 0px 0px 20px;
+	font-size: 16px;
+}
+
+tr.text td {
+	padding: 0px 0px 0px 20px;
+	font-size: 16px;
+}
+
+.custominput {
+	background-color: f1f1f1;
+}
+
+div.formtitle {
+	font-size: 16px;
+}
+
+input.ok {
+	font-size: 30px;
+}
+
+input.cancel {
+	font-size: 16px;
+}
+

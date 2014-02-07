@@ -1,0 +1,4 @@
+#Database Name
+#dms_archive
+#Database location
+#localhost
